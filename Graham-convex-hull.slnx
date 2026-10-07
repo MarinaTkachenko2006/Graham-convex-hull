@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Graham-convex-hull/Graham-convex-hull.vcxproj" Id="823f2043-ccd2-42c4-bc19-a591a78f64b7" />
+</Solution>

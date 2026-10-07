@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{bebe8999-5b8a-42db-8fc1-710619755a2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\imgui">
+      <UniqueIdentifier>{a11ffd7a-183c-4217-ad2b-6825ed1f91cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\imgui\backends">
+      <UniqueIdentifier>{4de5614f-58af-41fa-8d78-cd6de4277276}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
